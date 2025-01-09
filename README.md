@@ -2,7 +2,7 @@
 
 ## 📜 Description
 
-The **Cold Email Generator** is an **AI-powered** tool designed to automate the creation of **personalized cold emails** for outreach. By leveraging the advanced **LLaMA 3.1 70B Versatile model** for language generation, the tool generates tailored and relevant email content. The system integrates **ChatGPT** for conversational text generation, **ChromaDB** for efficient data storage, and a sleek **Streamlit** frontend for interactive usage. It also ensures smooth operation with **robust exception handling** and **efficient data processing** using **Pandas**.
+The **Cold Email Generator** is an **AI-powered** tool designed to automate the creation of **personalized cold emails** for outreach. By leveraging the advanced **LLaMA 3.1 70B Versatile model** for language generation, the tool generates tailored and relevant email content. The system integrates **ChromaDB** for efficient data storage, and a sleek **Streamlit** frontend for interactive usage. It also ensures smooth operation with **robust exception handling** and **efficient data processing** using **Pandas**.
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@ The **Cold Email Generator** is an **AI-powered** tool designed to automate the 
 - **Exception Handling**: Robust error management ensuring smooth user experience.
 - **Environment Management**: Secure handling of API keys with **dotenv**.
 
-## 💻 Installation Instructions
+## 💻 How To Use
 
 1. **Clone the Repository**  
    Start by cloning the repository to your local machine:
@@ -23,7 +23,7 @@ The **Cold Email Generator** is an **AI-powered** tool designed to automate the 
 2. **The project is ready to use after cloning.**
 
 
-## 🛠️ Usage
+## 🛠️ API Handling
 
 1. Provide your API key in a `.env` file:
    ```plaintext
